@@ -1,0 +1,3 @@
+Welcome to the Shape shifter snake project
+
+this project is written in C#, using OOP...
