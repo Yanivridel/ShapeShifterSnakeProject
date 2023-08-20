@@ -35,7 +35,7 @@ namespace SnakeFinalProject
             InitializeComponent();
             player.SoundLocation = "SnakeBackgroundMusic.wav";
         }
-        ///////////////// START LOAD
+        ////////////////// START LOAD 
         private void MainForm_Load(object sender, EventArgs e)
         {
             ButtonsPanel.Focus();
@@ -51,7 +51,7 @@ namespace SnakeFinalProject
             this.player.PlayLooping();
             AudioOffPic.Location = AudioOnPic.Location = new Point(640, 22);
         }
-        ///////////////// END LOAD
+        ////////////////// END LOAD
 
         ////////////////////////////////// START BUTTONS CLICKS  /////////////////////
         private void MainButton_MouseUp(object sender, MouseEventArgs e)
