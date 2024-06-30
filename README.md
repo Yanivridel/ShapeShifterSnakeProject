@@ -1,5 +1,5 @@
-# C# Project - Shape Shifter Snake project
-
+# C# Project - Shape Shifter Snake project [<img src="./SnakeFinalProject/Reasorces/snake.png" width="65" height="65"/>](./SnakeFinalProject/Reasorces/snake.png)
+snake.png
 Welcome to my final project for the OOP course at HIT. This project focuses on developing a game in Windows Froms Visual Studio.
 
 ## Project Overview
